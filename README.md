@@ -2,69 +2,69 @@
 
 ## List of code colors
 
-| Primary Colors | Hex Code | Visual                             |
-| -------------- | -------- | ---------------------------------- |
-| Red            | #FF0000  | $\Huge\color{#FF0000}{\textsf{■}}$ |
-| Yellow         | #FFFF00  | $\Huge\color{#FFFF00}{\textsf{■}}$ |
-| Blue           | #0000FF  | $\Huge\color{#0000FF}{\textsf{■}}$ |
+| Primary Colors                            | Hex Code |
+| ----------------------------------------- | -------- |
+| Red $\Huge\color{#FF0000}{\textsf{■}}$    | #FF0000  |
+| Yellow $\Huge\color{#FFFF00}{\textsf{■}}$ | #FFFF00  |
+| Blue $\Huge\color{#0000FF}{\textsf{■}}$   | #0000FF  |
 
 ---
 
-| Secondary Colors | Hex Code | Visual                             |
-| ---------------- | -------- | ---------------------------------- |
-| Green            | #008000  | $\Huge\color{#008000}{\textsf{■}}$ |
-| Orange           | #FFA500  | $\Huge\color{#FFA500}{\textsf{■}}$ |
-| Purple           | #800080  | $\Huge\color{#800080}{\textsf{■}}$ |
+| Secondary Colors                          | Hex Code |
+| ----------------------------------------- | -------- |
+| Green $\Huge\color{#008000}{\textsf{■}}$  | #008000  |
+| Orange $\Huge\color{#FFA500}{\textsf{■}}$ | #FFA500  |
+| Purple $\Huge\color{#800080}{\textsf{■}}$ | #800080  |
 
 ---
 
-| Tertiary Colors | Hex Code | Visual                             |
-| --------------- | -------- | ---------------------------------- |
-| Vermilion       | #E34234  | $\Huge\color{#E34234}{\textsf{■}}$ |
-| Magenta         | #FF00FF  | $\Huge\color{#FF00FF}{\textsf{■}}$ |
-| Violet          | #EE82EE  | $\Huge\color{#EE82EE}{\textsf{■}}$ |
-| Teal            | #008080  | $\Huge\color{#008080}{\textsf{■}}$ |
-| Chartreuse      | #7FFF00  | $\Huge\color{#7FFF00}{\textsf{■}}$ |
-| Amber           | #FFBF00  | $\Huge\color{#FFBF00}{\textsf{■}}$ |
+| Tertiary Colors                               | Hex Code |
+| --------------------------------------------- | -------- |
+| Vermilion $\Huge\color{#E34234}{\textsf{■}}$  | #E34234  |
+| Magenta $\Huge\color{#FF00FF}{\textsf{■}}$    | #FF00FF  |
+| Violet $\Huge\color{#EE82EE}{\textsf{■}}$     | #EE82EE  |
+| Teal $\Huge\color{#008080}{\textsf{■}}$       | #008080  |
+| Chartreuse $\Huge\color{#7FFF00}{\textsf{■}}$ | #7FFF00  |
+| Amber $\Huge\color{#FFBF00}{\textsf{■}}$      | #FFBF00  |
 
 ---
 
-| Black and White | Hex Code | Visual                             |
-| --------------- | -------- | ---------------------------------- |
-| Black           | #000000  | $\Huge\color{#000000}{\textsf{■}}$ |
-| White           | #FFFFFF  | $\Huge\color{#FFFFFF}{\textsf{■}}$ |
-| Gray            | #808080  | $\Huge\color{#808080}{\textsf{■}}$ |
-| Silver          | #C0C0C0  | $\Huge\color{#C0C0C0}{\textsf{■}}$ |
+| Black and White                           | Hex Code |
+| ----------------------------------------- | -------- |
+| Black $\Huge\color{#000000}{\textsf{■}}$  | #000000  |
+| White $\Huge\color{#FFFFFF}{\textsf{■}}$  | #FFFFFF  |
+| Gray $\Huge\color{#808080}{\textsf{■}}$   | #808080  |
+| Silver $\Huge\color{#C0C0C0}{\textsf{■}}$ | #C0C0C0  |
 
 ---
 
-| Opacity | Hex Code  | Visual                               |
-| ------- | --------- | ------------------------------------ |
-| 100%    | #FFFFFFFF | $\Huge\color{#FFFFFFFF}{\textsf{■}}$ |
-| 90%     | #FFFFFFE6 | $\Huge\color{#FFFFFFE6}{\textsf{■}}$ |
-| 80%     | #FFFFFFCC | $\Huge\color{#FFFFFFCC}{\textsf{■}}$ |
-| 75%     | #FFFFFFBF | $\Huge\color{#FFFFFFBF}{\textsf{■}}$ |
-| 70%     | #FFFFFFB3 | $\Huge\color{#FFFFFFB3}{\textsf{■}}$ |
-| 60%     | #FFFFFF99 | $\Huge\color{#FFFFFF99}{\textsf{■}}$ |
-| 50%     | #FFFFFF80 | $\Huge\color{#FFFFFF80}{\textsf{■}}$ |
-| 40%     | #FFFFFF66 | $\Huge\color{#FFFFFF66}{\textsf{■}}$ |
-| 30%     | #FFFFFF4D | $\Huge\color{#FFFFFF4D}{\textsf{■}}$ |
-| 25%     | #FFFFFF40 | $\Huge\color{#FFFFFF40}{\textsf{■}}$ |
-| 20%     | #FFFFFF33 | $\Huge\color{#FFFFFF33}{\textsf{■}}$ |
-| 10%     | #FFFFFF1A | $\Huge\color{#FFFFFF1A}{\textsf{■}}$ |
-| 0%      | #FFFFFF00 | $\Huge\color{#FFFFFF00}{\textsf{■}}$ |
+| Opacity                                   | Hex Code  |
+| ----------------------------------------- | --------- |
+| 100% $\Huge\color{#FFFFFFFF}{\textsf{■}}$ | #FFFFFFFF |
+| 90% $\Huge\color{#FFFFFFE6}{\textsf{■}}$  | #FFFFFFE6 |
+| 80% $\Huge\color{#FFFFFFCC}{\textsf{■}}$  | #FFFFFFCC |
+| 75% $\Huge\color{#FFFFFFBF}{\textsf{■}}$  | #FFFFFFBF |
+| 70% $\Huge\color{#FFFFFFB3}{\textsf{■}}$  | #FFFFFFB3 |
+| 60% $\Huge\color{#FFFFFF99}{\textsf{■}}$  | #FFFFFF99 |
+| 50% $\Huge\color{#FFFFFF80}{\textsf{■}}$  | #FFFFFF80 |
+| 40% $\Huge\color{#FFFFFF66}{\textsf{■}}$  | #FFFFFF66 |
+| 30% $\Huge\color{#FFFFFF4D}{\textsf{■}}$  | #FFFFFF4D |
+| 25% $\Huge\color{#FFFFFF40}{\textsf{■}}$  | #FFFFFF40 |
+| 20% $\Huge\color{#FFFFFF33}{\textsf{■}}$  | #FFFFFF33 |
+| 10% $\Huge\color{#FFFFFF1A}{\textsf{■}}$  | #FFFFFF1A |
+| 0% $\Huge\color{#FFFFFF00}{\textsf{■}}$   | #FFFFFF00 |
 
 ---
 
-| Other colors | Hex Code | Visual                             |
-| ------------ | -------- | ---------------------------------- |
-| Lime         | #00FF00  | $\Huge\color{#00FF00}{\textsf{■}}$ |
-| Maroon       | #800000  | $\Huge\color{#800000}{\textsf{■}}$ |
-| Olive        | #808000  | $\Huge\color{#808000}{\textsf{■}}$ |
-| Aqua         | #00FFFF  | $\Huge\color{#00FFFF}{\textsf{■}}$ |
-| Navy         | #000080  | $\Huge\color{#000080}{\textsf{■}}$ |
-| Fuchsia      | #FF00FF  | $\Huge\color{#FF00FF}{\textsf{■}}$ |
-| Pink         | #FFC0CB  | $\Huge\color{#FFC0CB}{\textsf{■}}$ |
+| Other colors                               | Hex Code |
+| ------------------------------------------ | -------- |
+| Lime $\Huge\color{#00FF00}{\textsf{■}}$    | #00FF00  |
+| Maroon $\Huge\color{#800000}{\textsf{■}}$  | #800000  |
+| Olive $\Huge\color{#808000}{\textsf{■}}$   | #808000  |
+| Aqua $\Huge\color{#00FFFF}{\textsf{■}}$    | #00FFFF  |
+| Navy $\Huge\color{#000080}{\textsf{■}}$    | #000080  |
+| Fuchsia $\Huge\color{#FF00FF}{\textsf{■}}$ | #FF00FF  |
+| Pink $\Huge\color{#FFC0CB}{\textsf{■}}$    | #FFC0CB  |
 
 ---
 
